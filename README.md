@@ -3,7 +3,8 @@ Implementations of 'Graph Sanitation with Application to Node Classification', T
 
 ## Requirements
 Main dependency: pytorch
-Test under python 3.7, pytorch 1.10
+
+Tested under python 3.7, pytorch 1.10
 
 ## Run
 python sanitize_graph.py
