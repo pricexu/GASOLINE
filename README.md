@@ -1,5 +1,6 @@
 # GASOLINE
 Implementations of 'Graph Sanitation with Application to Node Classification', The Web Conf'22
+<<<<<<< HEAD
 
 ## Requirements
 Main dependency: pytorch
@@ -21,3 +22,5 @@ If you find this repository useful, please kindly cite the following paper:
   year={2022}
 }
 ```
+=======
+>>>>>>> parent of dd5a92d (Upadte)
